@@ -30,3 +30,13 @@ https://student-ai-career-coach-ashoka.onrender.com
 **Current version: V3**
 
 V3 adds in-app **Backup** and **Restore** controls. Backups are portable JSON snapshots of this app's local browser state.
+
+
+## Version history
+- V1 — Core: resume, interview and skills coaching.
+- V2 — Portability: downloadable career/practice snapshots.
+- V3 — Recovery: versioned JSON backup/restore for the complete local coaching state.
+
+**Current version: V3**
+
+V3 adds in-app **Backup** and **Restore** controls using portable JSON snapshots of this app's local browser state.
