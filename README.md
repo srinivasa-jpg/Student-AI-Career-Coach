@@ -20,3 +20,13 @@ Open `index.html` in a browser or serve the repository with a static web server.
 
 ## Live demo
 https://student-ai-career-coach-ashoka.onrender.com
+
+
+## Version history
+- V1 — Core: resume, interview and skills coaching.
+- V2 — Portability: downloadable career/practice snapshots.
+- V3 — Recovery: versioned JSON backup/restore for the complete local coaching state.
+
+**Current version: V3**
+
+V3 adds in-app **Backup** and **Restore** controls. Backups are portable JSON snapshots of this app's local browser state.
