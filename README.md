@@ -19,4 +19,4 @@ A student-focused career preparation dashboard for resume improvement, interview
 Open `index.html` in a browser or serve the repository with a static web server.
 
 ## Live demo
-Deployment link will be added after the first production deployment.
+https://student-ai-career-coach-ashoka.onrender.com
